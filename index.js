@@ -61,7 +61,7 @@ app.get("/", (req, res) => res.type("html").send(html));
 
 const io = new Server(server, {
   cors: {
-    origin: ["http://localhost:3000", "https://socket-io-test.vercel.app/"],
+    origin: ["http://localhost:3000", "https://socket-io-test.vercel.app"],
     methods: ["GET", "POST"]
   }
 });
