@@ -2,6 +2,8 @@
 
 This is a simple example of a video chat using socket.io and node.js
 
+Client side code is here: <https://github.com/iamkunall/VideoChat-socket.io-client>
+
 ## To use
 
 - Fork or download this repo
