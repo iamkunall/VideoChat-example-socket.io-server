@@ -21,4 +21,8 @@ yarn install || npm install
 yarn start || npm start
 ```
 
+Server will be running on port 4000
+
+<http://localhost:4000/>
+
 Client side code is here: <https://github.com/iamkunall/VideoChat-socket.io-client>

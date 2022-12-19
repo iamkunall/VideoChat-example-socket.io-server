@@ -51,7 +51,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render! API is working.
+      Hello Server is started.
     </section>
   </body>
 </html>
